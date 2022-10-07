@@ -1,3 +1,6 @@
 [submodule "test-sm"]
 	path = test-sm
 	url = https://github.com/mgrella/test-sm
+[submodule "test-sm2"]
+	path = test-sm2
+	url = https://github.com/mgrella/test-sm2
